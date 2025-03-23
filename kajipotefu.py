@@ -1,0 +1,13 @@
+
+text = input("Enter a text you want: ")
+text=text.replace("a","k")
+text=text.replace("i","j")
+text=text.replace("e","t")
+text=text.replace("u","f")
+text=text.replace("o","p")
+text=text.replace("A","K")
+text=text.replace("I","J")
+text=text.replace("E","T")
+text=text.replace("U","F")
+text=text.replace("O","P")
+print(text)
